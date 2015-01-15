@@ -28,7 +28,9 @@
     "matchdep": "^0.3.0",
     "mkdirp": "^0.5.0",
     "protractor": "^1.6.1",
-    "requirejs": "^2.1.15"
+    "requirejs": "^2.1.15",
+    "paperboy": "0.0.5",
+    "webserver": "^1.1.2"
   },
   "scripts": {
     "test": "grunt test"
